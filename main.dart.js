@@ -49366,7 +49366,7 @@ l=$.e8
 k=t.fo
 m=A.bk(A.D(g,A.bg(A.a([p,o,A.D(g,A.Nl(g,A.ad(new A.a9(A.a(["","30","60"],t.s),new A.aqT(),k),!0,k.i("aQ.E")),new A.aqU(h),l,t.N),B.e,g,g,new A.aY(g,g,n,m,g,g,B.x),g,40,g,g,g,g,100)],t.p),B.p,B.a2,B.o),B.e,g,g,g,g,g,new A.Y(0,0,0,30),g,g,g,g),g,g)
 p=m}else p=A.D(g,g,B.e,g,g,g,g,g,g,g,g,g,g)
-if($.KI){o=A.L("Start Time",g,g,g,A.W(g,g,g,g,g,g,g,g,g,g,g,16,g,g,B.m,g,g,!0,g,g,g,g,g,g,g,g),g,g)
+if($.KI){o=A.L("Start Time (EST)",g,g,g,A.W(g,g,g,g,g,g,g,g,g,g,g,16,g,g,B.m,g,g,!0,g,g,g,g,g,g,g,g),g,g)
 n=A.a2(g,g,10)
 m=$.e9
 l=A.L(f,g,g,g,g,g,g)
@@ -49374,7 +49374,7 @@ k=$.aHh
 j=A.af(k).i("a9<1,iE<p>>")
 m=A.bk(A.D(g,A.bg(A.a([o,n,A.Nl(l,A.ad(new A.a9(k,new A.aqV(),j),!0,j.i("aQ.E")),new A.aqW(h),m,t.N)],t.p),B.p,B.a2,B.o),B.e,g,g,g,g,g,new A.Y(0,0,0,30),g,g,g,g),g,g)
 o=m}else o=A.D(g,g,B.e,g,g,g,g,g,g,g,g,g,g)
-if($.z6){n=A.L("End Time",g,g,g,A.W(g,g,g,g,g,g,g,g,g,g,g,16,g,g,B.m,g,g,!0,g,g,g,g,g,g,g,g),g,g)
+if($.z6){n=A.L("End Time (EST)",g,g,g,A.W(g,g,g,g,g,g,g,g,g,g,g,16,g,g,B.m,g,g,!0,g,g,g,g,g,g,g,g),g,g)
 m=A.a2(g,g,10)
 l=$.KX
 k=A.L(f,g,g,g,g,g,g)
@@ -51504,7 +51504,7 @@ $2(a,b){var s,r,q,p="booking-day",o="booking-month",n="booking-year",m="booking-
 if(!A.aPD(J.h(J.h($.je,b),p),J.h(J.h($.je,b),o),J.h(J.h($.je,b),n),J.h(J.h($.je,b),m))){s=A.fo(B.cr,3)
 r=A.L(A.f(J.h(J.h($.je,b),"user-name")),l,l,l,A.W(l,l,l,l,l,l,l,l,l,l,l,14,l,l,B.m,l,l,!0,l,l,l,l,l,l,l,l),l,l)
 q=A.f(J.h(J.h($.je,b),"user-email"))
-s=A.D(l,A.bk(A.ck(!1,l,l,l,!0,l,!1,s,l,l,!1,l,l,l,A.L(q,l,l,l,A.W(l,l,l,l,l,l,l,l,l,l,l,A.i(a,l,t.w).w.a.a>=800?12:10,l,l,B.m,l,l,!0,l,l,l,l,l,l,l,l),l,l),l,r,A.bs(A.a([A.L(A.f(J.h(J.h($.je,b),p))+"/"+A.f(J.h(J.h($.je,b),o))+"/"+A.f(J.h(J.h($.je,b),n)),l,l,l,A.W(l,l,l,l,l,l,l,l,l,l,l,14,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),l,l),A.L(A.f(J.h(J.h($.je,b),m)),l,l,l,A.W(l,l,l,l,l,l,l,l,l,l,l,14,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),l,l)],t.p),B.p,B.a2,B.o),l),l,l),B.e,l,l,l,l,l,new A.Y(0,0,0,20),l,l,l,l)}else s=A.D(l,l,B.e,l,l,l,l,l,l,l,l,l,l)
+s=A.D(l,A.bk(A.ck(!1,l,l,l,!0,l,!1,s,l,l,!1,l,l,l,A.L(q,l,l,l,A.W(l,l,l,l,l,l,l,l,l,l,l,A.i(a,l,t.w).w.a.a>=800?12:10,l,l,B.m,l,l,!0,l,l,l,l,l,l,l,l),l,l),l,r,A.bs(A.a([A.L(A.f(J.h(J.h($.je,b),p))+"/"+A.f(J.h(J.h($.je,b),o))+"/"+A.f(J.h(J.h($.je,b),n)),l,l,l,A.W(l,l,l,l,l,l,l,l,l,l,l,14,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),l,l),A.L(A.f(J.h(J.h($.je,b),m))+" EST",l,l,l,A.W(l,l,l,l,l,l,l,l,l,l,l,14,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),l,l)],t.p),B.p,B.a2,B.o),l),l,l),B.e,l,l,l,l,l,new A.Y(0,0,0,20),l,l,l,l)}else s=A.D(l,l,B.e,l,l,l,l,l,l,l,l,l,l)
 return s},
 $S:22}
 A.aCw.prototype={
@@ -103782,7 +103782,7 @@ $.aGE="us"
 $.aBU=0
 $.it=A.a([!1,!1,!1,!1,!1,!1,!1,!1,!1],t.HZ)
 $.nh=A.a(["Performance Mentorship","Sports Psychology","Nutrition","School & Training Balance","Training & Video Feedback","Technique & Skill Analysis","Post & Pre Competition or Game Debrief","Athletic Career Guidance","College Recruiting"],t.s)
-$.aCk=A.a(["Swimming","American Football","Combat Sports","Soccer","Rugby","Basketball","Baseball","Softball","Golf","Volleyball","Tennis","Cross Country","Track and Field","Dance & Cheer"],t.s)
+$.aCk=A.a(["Swimming","American Football","Combat Sports","Soccer","Rugby","Basketball","Baseball","Softball","Golf","Volleyball","Tennis","Cross Country","Track and Field","Fencing"],t.s)
 $.aAq=A.a([!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1],t.HZ)
 $.b3r=A.a(["Male","Female"],t.s)
 $.eD=!1
