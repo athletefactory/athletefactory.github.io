@@ -48662,7 +48662,7 @@ i=A.a2(g,j&&r.Q.length!==0?40:0,g)
 if(!j||r.Q.length===0)s=A.D(g,g,B.e,g,g,g,g,g,g,g,g,g,g)
 else{s=A.i(a,g,s).w.a.a>=800?A.i(a,g,s).w.a.a/4:A.i(a,g,s).w.a.a/2
 j=A.bK(10)
-s=A.D(g,A.b6(A.M("Book Session",g,g,g,A.W(g,g,B.j,g,g,g,g,g,g,g,g,g,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),B.aj,g),new A.aok(r,a,b),g),B.e,g,g,new A.aX(B.f,g,g,j,g,g,B.x),g,50,new A.X(0,0,20,0),g,g,g,s)}return A.D(g,A.br(A.a([o,i,s],t.p),B.p,B.u,B.o),B.e,g,g,g,g,g,g,g,g,g,q)}}return B.dY},
+s=A.D(g,A.b6(A.M("Book Session",g,g,g,A.W(g,g,B.j,g,g,g,g,g,g,g,g,g,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),B.aj,g),new A.aok(r,a,b),g),B.e,g,g,new A.aX(B.f,g,g,j,g,g,B.x),g,50,new A.X(0,0,0,30),g,g,g,s)}return A.D(g,A.br(A.a([o,i,s],t.p),B.p,B.u,B.o),B.e,g,g,g,g,g,g,g,g,g,q)}}return B.dY},
 $S:29}
 A.aoj.prototype={
 $2(a,b){var s,r,q,p,o=null,n=this.a
