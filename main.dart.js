@@ -52582,7 +52582,8 @@ s=6
 return A.q(new A.dq().E6(j,i,A.e0(l),A.bw(l),A.ce(l),o.r[o.d],o.e),$async$$0)
 case 6:l=J.m(m.h(n,3),"stripe")
 h=J.m(l,"stripe-key")
-if(J.d(J.m(J.m(J.m(J.m(m.h(n,0),A.f(k.e)),"timings"),o.w),"minute-gap"),"30")){o=J.m(m.h(n,3),"stripe")
+if(o.e==="Sean McNicholl")g=J.m(J.m(m.h(n,3),"stripe"),"package-key")
+else if(J.d(J.m(J.m(J.m(J.m(m.h(n,0),A.f(k.e)),"timings"),o.w),"minute-gap"),"30")){o=J.m(m.h(n,3),"stripe")
 g=J.m(o,"thirty-minute-session-key")}else{o=J.m(m.h(n,3),"stripe")
 g=J.m(o,"sixty-minute-session-key")}if(f.e==null){s=1
 break}A.cm(f,!0).cd()
